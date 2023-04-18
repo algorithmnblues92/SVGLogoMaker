@@ -53,6 +53,8 @@ inquirer.prompt([
   console.log("It didn't proc for triangle");
  }
 
+ console.log("Generated newImage.svg")
+
 })
 
 const svgGeneratorCircle = ({text, textColor, shapeColor, ...rest}) => {
