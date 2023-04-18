@@ -25,10 +25,10 @@ This is a template for creating a SVG Logo Maker. There is an inquirer prompt th
 ## Installation Instructions
 
 User will be required to have node.js and inquirer@8.2.4 installed into your project.
-Run npm init -y in your IDE terminal or CLI.
-Run npm i node
-Run npm i inquirer@8.2.4 
-Before running cli.js
+> Run npm init -y in your IDE terminal or CLI.
+> Run npm i node
+> Run npm i inquirer@8.2.4 
+> Before running node cli.js
 
 
 ## Usage Information
@@ -43,7 +43,7 @@ This is a solo mission.
 
 ## Test Instructions
 
-If you find any bugs go ahead and meet me at the corner of here and there and send smoke signals after rubbing two Hurrican tall cans together and I will appear from a portal.
+If you find any bugs go ahead and meet me at the corner of here and there and send smoke signals after rubbing two Hurricane tall cans together and I will appear from a portal.
 
 
 ## License
