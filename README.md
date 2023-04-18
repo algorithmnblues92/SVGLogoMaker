@@ -53,9 +53,9 @@ MIT License
 
 
 ## Screenshots
+![Screenshot 1](images/svgLogoMaker1.png)
+![Screenshot 2](images/svgLogoMaker2.png)
 
-images/svgLogoMaker1.png
-images/svgLogoMaker2.png
 
 ## Video
 
