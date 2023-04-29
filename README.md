@@ -30,7 +30,9 @@ User will be required to have jest, node.js and inquirer@8.2.4 installed into yo
 > Run npm i node
 <br>
 > Run npm i inquirer@8.2.4
-<br> 
+<br>
+> Run npm i jest --save-dev 
+<br>
 > Before running node cli.js
 
 
