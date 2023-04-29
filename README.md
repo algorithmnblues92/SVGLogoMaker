@@ -24,7 +24,7 @@ This is a template for creating a SVG Logo Maker. There is an inquirer prompt th
 
 ## Installation Instructions
 
-User will be required to have node.js and inquirer@8.2.4 installed into your project.
+User will be required to have jest, node.js and inquirer@8.2.4 installed into your project.
 > Run npm init -y in your IDE terminal or CLI.
 <br>
 > Run npm i node
